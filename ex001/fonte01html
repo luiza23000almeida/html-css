@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+        @import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Grandiflora+One&family=Nabla&display=swap');
+        
+         body{ 
+            font-family: 'worl sans',arial,verdana;
+            font-size: 16px;
+            color: black;
+         }
+         h1{font-family: 'nabla', sans-serif;
+        }
+        p{
+            font-family:'grandiflora one'
+            ;font-size: 1em;
+        }
+    </style>
+</head>
+<body>
+    <h1>fonte family externo</h1>
+    <h2>pagina 1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus beatae aut aliquam fugiat est? Similique, accusantium autem provident non modi at ipsam, cumque re..cusandae enim exercitationem necessitatibus. Itaque, excepturi cupiditate?</p>
+
+    <h2>pagina 2</h2>
+</body>
+</html>

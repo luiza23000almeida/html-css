@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(179, 236, 218, 0.664);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+
+    h1{
+     color:rgb(74, 124, 116)
+    }
+    h1#principal{
+        text-align: center;
+        background-color: azure;
+    }
+    h2.novo{
+       background-color: rgb(104, 182, 182);
+    }
+    
+    h2{
+    color: rgb(18, 94, 94);
+    }
+    .claro{background-color: brown;}
+}
